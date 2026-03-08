@@ -1,0 +1,2 @@
+diksha narkhede FY com B 41
+learned what gradient descent means using plotted points to reach destination from start. formulas of vector product.linear regression with practice questions ,to precdict values using slope formula.three programs in google colab with numpy. logical regression of labeled data.sigmoid function formula and example on it.result of ture false was stored in binary.
